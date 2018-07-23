@@ -1,0 +1,369 @@
+[23.07.18 11:51:11] INFO: Network Config: ipconfig.xml doesn't exists using automatic configuration...
+[23.07.18 11:51:11] INFO: Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[23.07.18 11:51:11] INFO: Network Config: Adding new subnet: 192.168.8.0/22 address: 192.168.10.46
+[23.07.18 11:51:11] INFO: Network Config: Adding new subnet: 0.0.0.0/0 address: 187.62.8.92
+[23.07.18 11:51:12] WARN: Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[23.07.18 11:51:12] INFO: Loaded 6 Filter Words.
+[23.07.18 11:51:12] INFO: Sunrise Configs Loaded...
+[23.07.18 11:51:12] INFO: Updated characters online status.
+[23.07.18 11:51:12] INFO: Cleaned up invalid Weddings.
+[23.07.18 11:51:12] INFO: Cleaned 0 elements from database in 0 s
+[23.07.18 11:51:12] INFO: Cleaned 0 expired timestamps from database.
+[23.07.18 11:51:12] INFO: BitSetIDFactory: 102912 id's available.
+[23.07.18 11:51:12] INFO: -------------------------------------------------=[ Engines ]
+[23.07.18 11:51:13] INFO: Script Engine: jython 2.2.1 - Language: python - Language Version: 2.2.1
+[23.07.18 11:51:13] INFO: Script Engine: java 1.8 - Language: java - Language Version: 1.8
+[23.07.18 11:51:13] INFO: Script Engine: Oracle Nashorn 1.8.0_172 - Language: ECMAScript - Language Version: ECMA - 262 Edition 5.1
+[23.07.18 11:51:14] INFO: -------------------------------------------------=[ Geodata ]
+[23.07.18 11:51:14] INFO: ---------------------------------------------------=[ World ]
+[23.07.18 11:51:14] INFO: GameTimeController: Started.
+[23.07.18 11:51:14] INFO: InstanceManager: Multiverse Instance created.
+[23.07.18 11:51:14] INFO: InstanceManager: Universe Instance created.
+[23.07.18 11:51:14] INFO: InstanceManager: Loaded 160 instance names.
+[23.07.18 11:51:14] INFO: L2World: (128 by 136) World Region Grid set up.
+[23.07.18 11:51:14] INFO: MapRegionManager: Loaded 57 map regions.
+[23.07.18 11:51:14] INFO: GlobalVariablesManager: Loaded 5 variables.
+[23.07.18 11:51:14] INFO: ----------------------------------------------------=[ Data ]
+[23.07.18 11:51:14] INFO: CategoryData: Loaded 124 Categories.
+[23.07.18 11:51:14] INFO: SecondaryAuthData: Loaded 328 forbidden passwords.
+[23.07.18 11:51:14] INFO: -------------------------------------------------=[ Effects ]
+[23.07.18 11:51:19] INFO: EffectHandler: Loaded 148 Handlers
+[23.07.18 11:51:19] INFO: ------------------------------------=[ Enchant Skill Groups ]
+[23.07.18 11:51:19] INFO: EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[23.07.18 11:51:19] INFO: ---------------------------------------------=[ Skill Trees ]
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 17176 Class Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 76 Sub-Class Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 77 Transfer Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 117 Fishing Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 3 Collect Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 74 Pledge Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 32 Transform Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 8 Noble Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 5 Hero Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 46 Game Master Skills.
+[23.07.18 11:51:19] INFO: SkillTreesData: Loaded 46 Game Master Aura Skills.
+[23.07.18 11:51:19] INFO: --------------------------------------------------=[ Skills ]
+[23.07.18 11:51:23] INFO: DocumentEngine: Loaded 66009 Skill templates from XML files.
+[23.07.18 11:51:23] INFO: SummonSkillsTable: Loaded 1891 skills.
+[23.07.18 11:51:23] INFO: ---------------------------------------------------=[ Items ]
+[23.07.18 11:51:25] INFO: ItemData: Highest item id used:50105
+[23.07.18 11:51:25] INFO: ItemData: Loaded: 11508 Etc Items
+[23.07.18 11:51:25] INFO: ItemData: Loaded: 3844 Armor Items
+[23.07.18 11:51:25] INFO: ItemData: Loaded: 3895 Weapon Items
+[23.07.18 11:51:25] INFO: ItemData: Loaded: 19247 Items in total.
+[23.07.18 11:51:25] INFO: EnchantItemGroupsData: Loaded: 4 item group templates.
+[23.07.18 11:51:25] INFO: EnchantItemGroupsData: Loaded: 1 scroll group templates.
+[23.07.18 11:51:25] INFO: EnchantItemData: Loaded 67 Enchant Scrolls.
+[23.07.18 11:51:25] INFO: EnchantItemData: Loaded 20 Support Items.
+[23.07.18 11:51:25] INFO: EnchantItemOptionsData: Loaded: 23 Items and 1093 Options.
+[23.07.18 11:51:28] INFO: OptionData: Loaded: 24985 Options.
+[23.07.18 11:51:28] INFO: EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+[23.07.18 11:51:28] INFO: MerchantPriceConfigData: Loaded 28 merchant price configs.
+[23.07.18 11:51:32] WARN: BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[23.07.18 11:51:32] INFO: BuyListData: Loaded 760 BuyLists.
+[23.07.18 11:51:35] INFO: MultisellData: Loaded 340 multisell lists.
+[23.07.18 11:51:35] INFO: RecipeData: Loaded 1000 recipes.
+[23.07.18 11:51:35] INFO: ArmorSetsData: Loaded 198 Armor sets.
+[23.07.18 11:51:35] INFO: FishData: Loaded 278 Fishes.
+[23.07.18 11:51:35] INFO: FishingMonstersData: Loaded 8 Fishing Monsters.
+[23.07.18 11:51:35] INFO: FishingRodsData: Loaded 6 Fishing Rods.
+[23.07.18 11:51:35] INFO: HennaData: Loaded 180 Henna data.
+[23.07.18 11:51:35] INFO: -------------------------------------------=[ Product Items ]
+[23.07.18 11:51:35] INFO: ProductItemData: Loaded 162 items for Item Mall.
+[23.07.18 11:51:35] INFO: ----------------------------------------------=[ Characters ]
+[23.07.18 11:51:35] INFO: ClassListData: Loaded 107 Class data.
+[23.07.18 11:51:35] INFO: InitialEquipmentData: Loaded 11 Initial Equipment data.
+[23.07.18 11:51:36] INFO: InitialShortcutData: Loaded 5 Initial Global Shortcuts data.
+[23.07.18 11:51:36] INFO: InitialShortcutData: Loaded 4 Initial Shortcuts data.
+[23.07.18 11:51:36] INFO: InitialShortcutData: Loaded 0 Macros presets.
+[23.07.18 11:51:36] INFO: ExperienceData: Loaded 87 levels.
+[23.07.18 11:51:36] INFO: ExperienceData: Max Player Level is: 85
+[23.07.18 11:51:36] INFO: ExperienceData: Max Pet Level is: 86
+[23.07.18 11:51:36] INFO: KarmaData: Loaded 85 karma modifiers.
+[23.07.18 11:51:36] INFO: HitConditionBonusData: Loaded Hit Condition bonuses.
+[23.07.18 11:51:37] INFO: PlayerTemplateData: Loaded 103 character templates.
+[23.07.18 11:51:37] INFO: PlayerTemplateData: Loaded 52530 level up gain records.
+[23.07.18 11:51:37] INFO: CharNameTable: Loaded 2 char names.
+[23.07.18 11:51:37] INFO: AdminData: Loaded: 10 Access Levels.
+[23.07.18 11:51:37] INFO: AdminData: Loaded: 453 Access Commands.
+[23.07.18 11:51:37] INFO: RaidBossPointsManager: Loaded 1 Characters Raid Points.
+[23.07.18 11:51:37] INFO: PetData: Loaded 52 Pets.
+[23.07.18 11:51:37] INFO: ---------------------------------------------------=[ Clans ]
+[23.07.18 11:51:37] INFO: ClanTable: Restored 0 clans from the database.
+[23.07.18 11:51:38] INFO: CHSiegeManager: Loaded 6 conquerable clan halls.
+[23.07.18 11:51:38] INFO: AuctionManager: Loaded: 38 auction(s)
+[23.07.18 11:51:38] INFO: ClanHallManager: Loaded: 0 clan halls
+[23.07.18 11:51:38] INFO: ClanHallManager: Loaded: 38 free clan halls
+[23.07.18 11:51:38] INFO: ----------------------------------------------------=[ NPCs ]
+[23.07.18 11:51:38] INFO: HerbDropData: Loaded 9 herb groups.
+[23.07.18 11:51:38] INFO: SkillLearnData: Loaded 256 Skill Learn data.
+[23.07.18 11:51:38] INFO: NpcTable: Loaded 10465 (Custom: 43) NPC template(s).
+[23.07.18 11:51:38] INFO: NpcTable: Loaded 103018 (Custom: 0) NPC skills.
+[23.07.18 11:51:39] INFO: NpcTable: Loaded 44235 (Custom: 5) drops.
+[23.07.18 11:51:39] INFO: NpcTable: Loaded 525 Minions.
+[23.07.18 11:51:39] INFO: NpcTable: Loaded 10461 (Custom: 39) AI Data.
+[23.07.18 11:51:39] INFO: NpcTable: Loaded 10460 (Custom: 1) Elementals Data.
+[23.07.18 11:51:39] INFO: WalkingManager: Loaded 123 walking routes.
+[23.07.18 11:51:39] INFO: StaticObjectsData: Loaded 51 StaticObject Templates.
+[23.07.18 11:51:40] INFO: GrandBossManager: Queen Ant(29001) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Core(29006) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Orfen(29014) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Baium(29020) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Valakas(29028) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Andreas Van Halter(29062) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Antharas(29068) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Beleth(29118) status is 0.
+[23.07.18 11:51:40] INFO: GrandBossManager: Loaded 8 Instances
+[23.07.18 11:51:41] INFO: DoorData: Loaded 1301 Door Templates for 21 regions.
+[23.07.18 11:51:45] INFO: ZoneManager: Loaded 29 zone classes and 2828 zones.
+[23.07.18 11:51:45] INFO: ZoneManager: Loaded 0 NPC spawn territoriers.
+[23.07.18 11:51:45] INFO: CastleManager: Loaded: 9 castles
+[23.07.18 11:51:46] INFO: FortManager: Loaded: 21 fortress
+[23.07.18 11:51:46] INFO: NpcBufferTable: Loaded 1 buffers and 10 skills.
+[23.07.18 11:51:46] INFO: GrandBossManager: Initialized 10 Grand Boss Zones
+[23.07.18 11:51:46] INFO: -----------------------------------------=[ Auction Manager ]
+[23.07.18 11:51:46] INFO: ItemAuctionManager: Disabled by config.
+[23.07.18 11:51:46] INFO: ------------------------------------------------=[ Olympiad ]
+[23.07.18 11:51:46] INFO: Olympiad System: Loading Olympiad System....
+[23.07.18 11:51:46] INFO: Olympiad System: Currently in Olympiad Period
+[23.07.18 11:51:46] INFO: Olympiad System: Period ends at 01/08/2018 00:00
+[23.07.18 11:51:46] INFO: Olympiad System: In 8 days, 12 hours and 8 mins.
+[23.07.18 11:51:46] INFO: Olympiad System: Next Weekly Change is in....
+[23.07.18 11:51:46] INFO: Olympiad System: In 0 days, 1 hours and 29 mins.
+[23.07.18 11:51:46] INFO: Olympiad System: Loaded 0 Noblesses
+[23.07.18 11:51:46] INFO: Olympiad System: Competition Period Starts in 0 days, 6 hours and 8 mins.
+[23.07.18 11:51:46] INFO: Olympiad System: Event starts/started : Mon Jul 23 18:00:46 BRT 2018
+[23.07.18 11:51:46] INFO: Hero System: Loaded 0 Heroes.
+[23.07.18 11:51:46] INFO: Hero System: Loaded 0 all time Heroes.
+[23.07.18 11:51:46] INFO: ---------------------------------------------=[ Seven Signs ]
+[23.07.18 11:51:46] INFO: SevenSigns: Currently in the Competition (Quest Event) period!
+[23.07.18 11:51:46] INFO: SevenSigns: The Seal of Avarice remains unclaimed.
+[23.07.18 11:51:46] INFO: SevenSigns: The Seal of Gnosis remains unclaimed.
+[23.07.18 11:51:46] INFO: SevenSigns: The Seal of Strife remains unclaimed.
+[23.07.18 11:51:46] INFO: SevenSigns: The competition, if the current trend continues, will end in a tie this week.
+[23.07.18 11:51:46] INFO: SevenSigns: Next period change set to Mon Jul 23 18:00:46 BRT 2018
+[23.07.18 11:51:46] INFO: SevenSigns: Next period in 0 days 6 hours and 8 mins.
+[23.07.18 11:51:46] INFO: ---------------------------------------------------=[ Cache ]
+[23.07.18 11:51:46] INFO: Cache[HTML]: Running lazy cache
+[23.07.18 11:51:46] INFO: CrestTable: Loaded 0 Crests.
+[23.07.18 11:51:46] INFO: TeleportLocationTable: Loaded 957 Teleport Location Templates.
+[23.07.18 11:51:46] INFO: UIData: Loaded 4 keys 5 categories.
+[23.07.18 11:51:46] INFO: AugmentationData: Loaded: 33960 augmentations.
+[23.07.18 11:51:46] INFO: AugmentationData: Loaded: 2754 accessory augmentations.
+[23.07.18 11:51:46] INFO: CursedWeaponsManager: Loaded : 2 cursed weapon(s).
+[23.07.18 11:51:47] INFO: TransformData: Loaded: 112 transform templates.
+[23.07.18 11:51:47] WARN: TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[23.07.18 11:51:47] INFO: TransformData: Loaded 0 custom transform templates.
+[23.07.18 11:51:47] INFO: BotReportTable: Loaded 0 bot reports
+[23.07.18 11:51:47] INFO: -------------------------------------------------=[ Scripts ]
+[23.07.18 11:51:48] INFO: AirShipManager: Loaded 0 private airships
+[23.07.18 11:51:48] INFO: ----------------------------------------=[ Datapack Scripts ]
+[23.07.18 11:52:03] INFO: BloodAltarsLoader: Loading related scripts.
+[23.07.18 11:52:03] INFO: ConquerableHallsLoader: Loading related scripts.
+[23.07.18 11:52:03] INFO: Devastated Castle: Fri Aug 03 12:00:00 BRT 2018
+[23.07.18 11:52:03] INFO: Fortress of Resistance: Fri Aug 03 12:00:00 BRT 2018
+[23.07.18 11:52:03] INFO: Fortresss of the Dead: Fri Aug 03 12:00:00 BRT 2018
+[23.07.18 11:52:03] INFO: Rainbow Springs: Fri Aug 03 12:00:00 BRT 2018
+[23.07.18 11:52:03] INFO: CustomsLoader: Loading related scripts.
+[23.07.18 11:52:03] INFO: 5th Anniversary Event - OFF
+[23.07.18 11:52:04] INFO: EventsLoader: Loading related scripts.
+[23.07.18 11:52:04] INFO: FeaturesLoader: Loading related scripts.
+[23.07.18 11:52:04] INFO: GraciaLoader: Loading related scripts.
+[23.07.18 11:52:04] INFO: Seed of Destruction Manager: Loaded. Current stage is: 1
+[23.07.18 11:52:04] INFO: SeedOfDestruction: Loaded 51 spawn zones data.
+[23.07.18 11:52:04] INFO: SeedOfDestruction: Loaded 548 spawns data.
+[23.07.18 11:52:04] INFO: GrandBossLoader: Loading related scripts.
+[23.07.18 11:52:04] INFO: GrandBossManager: Updated Andreas Van Halter(29062) status to 0
+[23.07.18 11:52:04] INFO: GroupTemplatesLoader: Loading related scripts.
+[23.07.18 11:52:05] INFO: IndividualLoader: Loading related scripts.
+[23.07.18 11:52:05] INFO: HellboundLoader: Loading related scripts.
+[23.07.18 11:52:05] INFO: HellboundPointData: Loaded 47 trust point reward data.
+[23.07.18 11:52:05] INFO: HellboundSpawns: Loaded 598 Hellbound spawns.
+[23.07.18 11:52:05] INFO: HellboundEngine: Level: 0
+[23.07.18 11:52:05] INFO: HellboundEngine: Trust: 0
+[23.07.18 11:52:05] INFO: HellboundEngine: Status: locked.
+[23.07.18 11:52:05] INFO: RaidBossSpawnManager: Loaded 187 Instances
+[23.07.18 11:52:05] INFO: RaidBossSpawnManager: Scheduled 0 Instances
+[23.07.18 11:52:06] INFO: InstanceLoader: Loading related scripts.
+[23.07.18 11:52:08] INFO: MasterHandler: Loading related scripts.
+[23.07.18 11:52:08] INFO: ActionHandler: Loaded 10 Handlers
+[23.07.18 11:52:08] INFO: ActionShiftHandler: Loaded 6 Handlers
+[23.07.18 11:52:08] INFO: AdminCommandHandler: Loaded 466 Handlers
+[23.07.18 11:52:08] INFO: BypassHandler: Loaded 50 Handlers
+[23.07.18 11:52:08] INFO: ChatHandler: Loaded 14 Handlers
+[23.07.18 11:52:08] INFO: ItemHandler: Loaded 32 Handlers
+[23.07.18 11:52:08] INFO: PunishmentHandler: Loaded 3 Handlers
+[23.07.18 11:52:08] INFO: SkillHandler: Loaded 27 Handlers
+[23.07.18 11:52:08] INFO: UserCommandHandler: Loaded 17 Handlers
+[23.07.18 11:52:08] INFO: VoicedCommandHandler: Loaded 14 Handlers
+[23.07.18 11:52:08] INFO: TargetHandler: Loaded 35 Handlers
+[23.07.18 11:52:08] INFO: TelnetHandler: Loaded 20 Handlers
+[23.07.18 11:52:08] INFO: ModifiersLoader: Loading related scripts.
+[23.07.18 11:52:08] INFO: NpcLoader: Loading related scripts.
+[23.07.18 11:52:08] INFO: NpcBuffersData: Loaded: 33 buffers data.
+[23.07.18 11:52:13] INFO: QuestLoader: Loading related scripts.
+[23.07.18 11:52:14] INFO: EnhanceYourWeapon: Loaded 54 Soul Crystal data.
+[23.07.18 11:52:14] INFO: EnhanceYourWeapon: Loaded 243 npc Leveling info data.
+[23.07.18 11:52:14] INFO: SunriseNpcsLoader: Loading related scripts.
+[23.07.18 11:52:14] INFO: TeleportersLoader: Loading related scripts.
+[23.07.18 11:52:14] INFO: VillageMastersLoader: Loading related scripts.
+[23.07.18 11:52:14] INFO: ZonesLoader: Loading related scripts.
+[23.07.18 11:52:15] INFO: Handy's Block Checker Event is enabled
+[23.07.18 11:52:15] INFO: Fantasy Isle: Parade starting at 2018/07/23 13:20 and is scheduled each next 1 hours.
+[23.07.18 11:52:15] INFO: GlobalLoader: Global scripts loaded in 11414 ms.
+[23.07.18 11:52:15] INFO: Bandit StrongHold: Fri Aug 03 12:00:00 BRT 2018
+[23.07.18 11:52:15] INFO: Beast Farm: Fri Aug 03 12:00:00 BRT 2018
+[23.07.18 11:52:15] INFO: TerritoryWarSuperClass: Sun Jul 29 22:00:00 BRT 2018
+[23.07.18 11:52:16] INFO: --------------------------------------------=[ Gracia Seeds ]
+[23.07.18 11:52:17] INFO: Seed of Infinity Manager: Loaded. Current stage is: 1
+[23.07.18 11:52:17] INFO: --------------------------------------------------=[ Spawns ]
+[23.07.18 11:52:18] INFO: SpawnTable: Loaded 3946 npc spawns.
+[23.07.18 11:52:18] WARN: SpawnTable: Data missing in NPC table for ID: 557.
+[23.07.18 11:52:18] WARN: SpawnTable: Data missing in NPC table for ID: 540.
+[23.07.18 11:52:18] INFO: SpawnTable: Loaded 20 custom npc spawns.
+[23.07.18 11:52:19] INFO: SpawnTable: Loaded 1190 npc spawns from XML.
+[23.07.18 11:52:19] INFO: DayNightSpawnManager: Removed 0 night creatures
+[23.07.18 11:52:19] INFO: DayNightSpawnManager: Spawned 232 day creatures
+[23.07.18 11:52:19] INFO: FourSepulchersManager: loaded 20 Mysterious-Box spawns.
+[23.07.18 11:52:19] INFO: FourSepulchersManager: loaded 716 Physical monsters.
+[23.07.18 11:52:19] INFO: FourSepulchersManager: loaded 716 Magical monsters.
+[23.07.18 11:52:19] INFO: FourSepulchersManager: loaded 92 Church of duke monsters.
+[23.07.18 11:52:19] INFO: FourSepulchersManager: loaded 68 Emperor's grave NPCs.
+[23.07.18 11:52:19] INFO: FourSepulchersManager: spawned Conquerors' Sepulcher Manager
+[23.07.18 11:52:19] INFO: FourSepulchersManager: spawned Emperors' Sepulcher Manager
+[23.07.18 11:52:19] INFO: FourSepulchersManager: spawned Great Sages' Sepulcher Manager
+[23.07.18 11:52:19] INFO: FourSepulchersManager: spawned Judges' Sepulcher Manager
+[23.07.18 11:52:19] INFO: FourSepulchersManager: Beginning in Cooldown time
+[23.07.18 11:52:19] INFO: DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[23.07.18 11:52:19] INFO: DimensionalRiftManager: Loaded 462 dimensional rift spawns.
+[23.07.18 11:52:19] INFO: ---------------------------------------------------=[ Siege ]
+[23.07.18 11:52:19] INFO: Siege of Gludio: Sun Jul 29 16:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Dion: Sun Jul 29 16:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Giran: Sun Jul 29 16:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Oren: Sun Jul 29 16:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Aden: Sun Jul 29 16:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Innadril: Sun Jul 29 20:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Goddard: Sun Jul 29 20:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Rune: Sun Jul 29 20:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: Siege of Schuttgart: Sun Jul 29 20:00:00 BRT 2018
+[23.07.18 11:52:19] INFO: SiegeScheduleData: Loaded: 2 siege schedulers.
+[23.07.18 11:52:19] INFO: CastleManorManager: Loaded 258 seeds.
+[23.07.18 11:52:19] INFO: CastleManorManager: Manor data loaded.
+[23.07.18 11:52:19] INFO: CastleManorManager: Period ends at 23/07/2018 20:00
+[23.07.18 11:52:19] INFO: CastleManorManager: In 0 days, 8 hours and 7 mins.
+[23.07.18 11:52:19] INFO: CastleManorManager: Next mode change: 23/07 20:00:00
+[23.07.18 11:52:19] INFO: CastleManorManager: Current mode: APPROVED
+[23.07.18 11:52:19] INFO: MercTicketManager: Loaded: 0 Mercenary Tickets
+[23.07.18 11:52:19] INFO: QuestManager: Loaded: 528 quests.
+[23.07.18 11:52:19] INFO: QuestManager: Loaded: 341 scripts.
+[23.07.18 11:52:19] INFO: --------------------------------------------------=[ Others ]
+[23.07.18 11:52:19] INFO: SevenSignsFestival: The first Festival of Darkness cycle begins in 2 minute(s).
+[23.07.18 11:52:20] INFO: Event ID: (Squash Event) has passed... Ignored.
+[23.07.18 11:52:20] INFO: FaenorScriptEngine: Loaded  SquashEvent.xml successfully.
+[23.07.18 11:52:20] INFO: Event ID: (Valentines Event) has passed... Ignored.
+[23.07.18 11:52:20] INFO: FaenorScriptEngine: Loaded  Valentines.xml successfully.
+[23.07.18 11:52:20] INFO: TaskManager: Loaded: 15 Tasks
+[23.07.18 11:52:20] INFO: PunishmentManager: Loaded 0 active and 0 expired punishments.
+[23.07.18 11:52:20] INFO: --------------------------------------------=[ Event Engine ]
+[23.07.18 11:52:20] INFO: Event Engine: Loaded GlobalConfigs engine.
+[23.07.18 11:52:20] INFO: Event Engine: Debug messages are stored in 'log\EventEngine\EventEngine_detailed_1.log'
+[23.07.18 11:52:20] INFO: Event Engine: Thanks for using a legal version.
+[23.07.18 11:52:20] INFO: Event Engine: Loading engine version 2.2...
+[23.07.18 11:52:20] INFO: Event Engine: Using HighFive interface (for engine v2.1).
+[23.07.18 11:52:20] INFO: Event Engine: Loading Admin htmls from the jar file.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded 58 HTML files from event-engine.jar
+[23.07.18 11:52:20] INFO: Event Engine: Loaded HTML manager.
+[23.07.18 11:52:20] INFO: Event Engine: Loading events...
+[23.07.18 11:52:20] INFO: Event Engine: Next event in 10 minutes.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded 14 main events.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded 5 mini event types.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded editable Event Description system.
+[23.07.18 11:52:20] INFO: Event Engine: Processing en language -  version 2.21
+[23.07.18 11:52:20] INFO: Event Engine: Loaded en language with 266 messages.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded 1 languages.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded 14 mini event modes.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded 395 configs for events.
+[23.07.18 11:52:20] INFO: Event Engine: Event Engine: Loaded 66 EventMaps.
+[23.07.18 11:52:20] INFO: Event Engine: Reward System Loaded.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded 14 main event InstanceTypes.
+[23.07.18 11:52:20] INFO: Event Engine: Global statistics reloaded.
+[23.07.18 11:52:20] INFO: Event Engine: Global statistics engine loaded.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded EventWarnings engine.
+[23.07.18 11:52:20] INFO: Event Engine: Gear score engine - loaded 7739 items.
+[23.07.18 11:52:20] INFO: Event Engine: Loaded PlayerValue engine.
+[23.07.18 11:52:20] INFO: Event Engine: Version 2.2 successfully loaded.
+[23.07.18 11:52:20] INFO: -----------------------------------------=[ Sunrise Systems ]
+[23.07.18 11:52:20] INFO: Premium System: Enabled.
+[23.07.18 11:52:20] INFO: Security System: Enabled.
+[23.07.18 11:52:20] INFO: Restart: Next restart: Tue Jul 24 04:00:00 BRT 2018
+[23.07.18 11:52:20] INFO: Auto Restart: Enabled.
+[23.07.18 11:52:20] INFO: Repair Command: Enabled.
+[23.07.18 11:52:20] INFO: Experience Command: Enabled.
+[23.07.18 11:52:20] INFO: Auto Soul Shots: Enabled.
+[23.07.18 11:52:20] INFO: Achievements Engine: Loaded 12 achievements from xml!
+[23.07.18 11:52:20] INFO: BuffsHolder: loaded 133 buffs(s) count.
+[23.07.18 11:52:20] INFO: Loaded 241 teleports for the Custom Npcs-Items.
+[23.07.18 11:52:20] ERROR: ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[23.07.18 11:52:20] INFO: ImagesCache: Loaded 0 images (data/sunrise/images/id_by_name).
+[23.07.18 11:52:20] INFO: GlobalImagesCache: Loaded 7 images (data/sunrise/images).
+[23.07.18 11:52:20] INFO: LeaderBoards: Enabled.
+[23.07.18 11:52:21] INFO: ArenaLeaderboard: Initialized
+[23.07.18 11:52:21] INFO: FishermanLeaderboard: Initialized
+[23.07.18 11:52:21] INFO: CraftLeaderboard: Initialized
+[23.07.18 11:52:21] INFO: TvTLeaderboard: Disabled.
+[23.07.18 11:52:21] INFO: Antibot Engine: Disabled.
+[23.07.18 11:52:21] INFO: Antibot Farm Engine: Disabled.
+[23.07.18 11:52:21] INFO: Antibot Enchant Engine: Disabled.
+[23.07.18 11:52:21] INFO: RaidConfigsHolder: loaded 1 raid configs(s) count.
+[23.07.18 11:52:21] INFO: RaidAndDropsHolder: loaded 2 raid and drops(s) count.
+[23.07.18 11:52:21] INFO: RaidLocationsHolder: loaded 6 raid locations(s) count.
+[23.07.18 11:52:21] INFO: RaidManager: Disabled.
+[23.07.18 11:52:21] INFO: CoupleManager: Loaded: 0 couples(s)
+[23.07.18 11:52:21] INFO: MailManager: Successfully loaded 0 messages.
+[23.07.18 11:52:21] INFO: IdFactory: Free ObjectID's remaining: 1879002535
+[23.07.18 11:52:21] INFO: OfflineTradersTable: Loaded: 0 offline trader(s)
+[23.07.18 11:52:21] INFO: GameServer: Started, free memory 605 Mb of 989 Mb
+[23.07.18 11:52:22] INFO: ArenaManager: Autotask init.
+[23.07.18 11:52:22] INFO: FishManager: Autotask init.
+[23.07.18 11:52:22] INFO: CraftManager: Autotask init.
+[23.07.18 11:52:22] INFO: Connecting to login on 127.0.0.1:9014
+[23.07.18 11:52:22] INFO: Registered on login as Server 1 : Bartz
+[23.07.18 11:52:24] INFO: GameServer: is now listening on: *:7777
+[23.07.18 11:52:24] INFO: Maximum Numbers of Connected players: 100
+[23.07.18 11:52:24] INFO: Server loaded in 71 seconds.
+[23.07.18 11:52:24] INFO: =====================================================
+[23.07.18 11:52:24] INFO: Base Revision: ..........: L2JSunrise
+[23.07.18 11:52:24] INFO: Core Revision: ..........: 842 rev
+[23.07.18 11:52:24] INFO: Data Revision: ..........: 760 rev
+[23.07.18 11:52:24] INFO: ......................💙......................
+[23.07.18 11:52:24] INFO: Copyrights: .............: BlueHeart-Team 2018
+[23.07.18 11:52:24] INFO: BlueHeart Owner: ........: vert
+[23.07.18 11:52:24] INFO: BlueHeart Developer: ....: vert | TurtleLess
+[23.07.18 11:52:24] INFO: BlueHeart Version: ......: 1.0
+[23.07.18 11:52:24] INFO: ......................💙......................
+[23.07.18 11:52:24] INFO: +----
+[23.07.18 11:52:24] INFO: | Global Memory Informations at 11:52:24:
+[23.07.18 11:52:24] INFO: |    |
+[23.07.18 11:52:24] INFO: | Allowed Memory: 989 MB
+[23.07.18 11:52:24] INFO: |    |= Allocated Memory: 929 MB (93,9333%)
+[23.07.18 11:52:24] INFO: |    |= Non-Allocated Memory: 60 MB (6,0667%)
+[23.07.18 11:52:24] INFO: | Allocated Memory: 929 MB
+[23.07.18 11:52:24] INFO: |    |= Used Memory: 423 MB (42,7705%)
+[23.07.18 11:52:24] INFO: |    |= Unused (cached) Memory: 506 MB (51,1628%)
+[23.07.18 11:52:24] INFO: | Useable Memory: 566 MB (57,2295%)
+[23.07.18 11:52:24] INFO: +----
+[23.07.18 11:52:24] INFO: =====================================================
+[23.07.18 11:52:24] INFO: ----------------------------------------------------=[ UPnP ]
+[23.07.18 11:52:24] INFO: Looking for UPnP Gateway Devices...
+[23.07.18 11:52:33] INFO: No UPnP gateways found
+[23.07.18 11:52:33] INFO: GameServer: Telnet server is currently disabled.
+[23.07.18 12:00:00] INFO: DayNightSpawnManager: Removed 232 day creatures
+[23.07.18 12:00:00] INFO: DayNightSpawnManager: Spawned 553 night creatures
+[23.07.18 12:00:00] INFO: RaidBossSpawnManager: Spawning Night Raid Boss Eilhalder von Hellmann
+[23.07.18 12:00:00] INFO: Seed of Infinity update Task: Seed updated successfuly.
+[23.07.18 12:00:40] INFO: GlobalVariablesManager: Stored 5 variables.
+[23.07.18 12:02:20] INFO: Event Engine: Trying to find an event to be started:
+[23.07.18 12:02:20] INFO: Event Engine: No next event is aviaible!
+[23.07.18 12:02:20] INFO: Event Engine: Next event in 20 minutes.
+[23.07.18 12:02:20] INFO: Event Engine: No event could be started. Check if you have any maps for them and if they are configured properly.

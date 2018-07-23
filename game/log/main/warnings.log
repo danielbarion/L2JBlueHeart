@@ -1,0 +1,413 @@
+[25.06.18 14:20:29] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[25.06.18 14:20:30] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[25.06.18 14:20:31] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\dist\game\data\xml\mapregion doesn't exist!
+[25.06.18 14:20:31] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[25.06.18 14:29:05] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[25.06.18 14:29:07] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[25.06.18 14:29:07] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\dist\game\data\xml\mapregion doesn't exist!
+[25.06.18 14:29:07] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[25.06.18 14:38:01] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[25.06.18 14:38:02] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[25.06.18 14:38:02] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\dist\game\data\xml\mapregion doesn't exist!
+[25.06.18 14:38:02] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[28.06.18 08:03:57] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[28.06.18 08:04:09] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 08:04:19] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 08:04:35] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[28.06.18 08:04:35] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[28.06.18 08:04:36] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[28.06.18 12:11:13] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 12:11:28] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 12:11:55] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[28.06.18 12:11:55] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[28.06.18 12:11:56] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[28.06.18 12:15:49] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 12:16:05] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 12:16:32] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[28.06.18 12:16:32] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[28.06.18 12:16:33] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[28.06.18 12:46:12] WARN:[L2JMods.ini] missing property for key: ExpSystemEnabled using default value: false
+[28.06.18 12:48:05] WARN:[L2JMods.ini] missing property for key: ExpSystemEnabled using default value: false
+[28.06.18 12:48:24] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 12:49:32] WARN:[L2JMods.ini] missing property for key: ExpSystemEnabled using default value: false
+[28.06.18 12:53:07] WARN:[L2JMods.ini] missing property for key: ExpSystemEnabled using default value: false
+[28.06.18 12:53:16] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 12:53:27] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 12:57:25] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[28.06.18 12:57:57] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[28.06.18 12:57:59] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[28.06.18 12:57:59] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\mapregion doesn't exist!
+[28.06.18 12:57:59] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[28.06.18 13:04:14] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[28.06.18 13:04:27] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 13:04:39] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 13:04:59] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[28.06.18 13:04:59] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[28.06.18 13:05:00] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[28.06.18 15:19:09] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 15:19:25] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 15:19:56] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[28.06.18 15:19:56] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[28.06.18 15:19:58] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[28.06.18 17:50:09] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 17:50:12] WARN:HennaData: Could not parse file hennaList.xml: Integer value required, but not specified: dyeItemId!
+[28.06.18 17:50:24] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 17:50:57] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 17:50:58] WARN:HennaData: Could not parse file hennaList.xml: Integer value required, but not specified: dyeItemId!
+[28.06.18 17:51:08] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 17:51:25] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[28.06.18 17:51:25] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[28.06.18 17:51:27] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[28.06.18 17:54:10] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[28.06.18 17:54:25] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[28.06.18 17:54:58] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[28.06.18 17:54:58] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[28.06.18 17:54:59] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 07:25:10] WARN:GM shutdown countdown is over. restarting NOW!
+[29.06.18 07:26:05] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 07:26:22] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 07:26:53] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 07:26:53] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 07:26:54] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 07:38:50] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 07:39:07] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 07:39:36] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 07:39:36] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 07:39:37] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 07:48:16] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 07:48:30] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 07:48:47] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 07:48:47] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 07:48:48] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 07:53:13] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 07:53:25] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 07:54:41] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 07:54:51] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 07:55:01] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 07:55:01] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 07:55:02] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 08:04:20] WARN:Port 7777 is already binded. Please free it and restart server.
+[29.06.18 08:04:21] WARN:Port 7777 is already binded. Please free it and restart server.
+[29.06.18 08:04:35] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 08:04:45] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 08:04:55] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 08:04:55] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 08:04:56] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 08:08:24] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 08:08:34] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 08:08:44] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 08:08:44] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 08:08:45] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 08:14:38] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 08:14:50] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 08:15:00] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 08:15:00] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 08:15:01] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[29.06.18 08:33:31] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[29.06.18 08:33:52] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[29.06.18 08:34:27] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[29.06.18 08:34:27] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[29.06.18 08:34:29] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[03.07.18 08:33:12] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[03.07.18 08:33:30] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[03.07.18 08:34:00] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[03.07.18 08:34:00] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[03.07.18 08:34:05] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[04.07.18 07:25:03] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[04.07.18 07:25:17] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[04.07.18 07:25:59] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[04.07.18 07:25:59] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[04.07.18 07:26:00] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[04.07.18 07:43:15] WARN:Master access level set for character Admin
+[04.07.18 07:54:54] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[04.07.18 07:54:56] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[04.07.18 07:54:56] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\mapregion doesn't exist!
+[04.07.18 07:54:56] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[04.07.18 08:10:52] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[04.07.18 08:14:32] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[04.07.18 08:14:45] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[04.07.18 08:14:56] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[04.07.18 08:15:16] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[04.07.18 08:15:16] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[04.07.18 08:15:18] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[04.07.18 08:16:34] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[04.07.18 08:16:45] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[04.07.18 08:16:54] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[04.07.18 08:16:54] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[04.07.18 08:16:56] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[04.07.18 08:17:07] WARN:Master access level set for character Admin
+[04.07.18 08:38:59] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[04.07.18 08:39:19] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[04.07.18 08:39:33] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[04.07.18 08:40:02] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[04.07.18 08:40:02] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[04.07.18 08:40:03] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[04.07.18 13:32:47] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[04.07.18 13:33:05] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[04.07.18 13:33:33] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[04.07.18 13:33:33] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[04.07.18 13:33:35] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[05.07.18 07:06:44] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[05.07.18 07:07:00] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[05.07.18 07:07:30] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[05.07.18 07:07:30] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[05.07.18 07:07:31] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[05.07.18 07:10:49] WARN:Master access level set for character Admin
+[05.07.18 07:32:13] WARN:Master access level set for character Admin
+[05.07.18 07:33:23] WARN:Master access level set for character Admin
+[05.07.18 07:33:50] WARN:GM: Admin(268481206) issued shutdown command. shutting down in 1 seconds!
+[05.07.18 07:33:51] WARN:GM shutdown countdown is over. shutting down NOW!
+[05.07.18 07:44:14] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[05.07.18 07:44:32] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[05.07.18 07:45:00] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[05.07.18 07:45:00] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[05.07.18 07:45:02] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[05.07.18 07:45:18] WARN:Master access level set for character Admin
+[05.07.18 07:57:15] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[05.07.18 07:57:30] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[05.07.18 07:57:58] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[05.07.18 07:57:58] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[05.07.18 07:57:59] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[05.07.18 07:58:08] WARN:Master access level set for character Admin
+[05.07.18 08:28:19] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[05.07.18 08:28:35] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[05.07.18 08:29:04] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[05.07.18 08:29:05] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[05.07.18 08:29:06] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[05.07.18 08:51:46] WARN:Master access level set for character Admin
+[05.07.18 09:15:51] WARN:Master access level set for character Admin
+[06.07.18 07:17:55] WARN:GM shutdown countdown is over. restarting NOW!
+[06.07.18 07:18:41] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[06.07.18 07:18:56] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[06.07.18 07:19:26] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[06.07.18 07:19:26] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[06.07.18 07:19:28] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[06.07.18 08:08:56] WARN:Master access level set for character Admin
+[06.07.18 08:09:17] WARN:GM: Admin(268481206) issued shutdown command. shutting down in 1 seconds!
+[06.07.18 08:09:18] WARN:GM shutdown countdown is over. shutting down NOW!
+[09.07.18 06:59:36] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[09.07.18 06:59:40] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[09.07.18 06:59:40] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\mapregion doesn't exist!
+[09.07.18 06:59:40] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[09.07.18 07:07:36] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[09.07.18 07:07:52] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[09.07.18 07:08:06] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[09.07.18 07:08:34] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[09.07.18 07:08:34] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[09.07.18 07:08:35] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[09.07.18 07:09:08] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[09.07.18 07:09:17] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[09.07.18 07:09:26] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[09.07.18 07:09:36] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[09.07.18 07:09:36] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[09.07.18 07:09:37] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[09.07.18 07:17:10] WARN:Master access level set for character Admin
+[09.07.18 07:29:26] WARN:GM: Admin(268481206) issued shutdown command. restarting in 1 seconds!
+[09.07.18 07:29:27] WARN:GM shutdown countdown is over. restarting NOW!
+[09.07.18 07:30:42] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[09.07.18 07:30:54] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[09.07.18 07:31:24] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[09.07.18 07:31:24] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[09.07.18 07:31:25] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[09.07.18 07:31:35] WARN:Master access level set for character Admin
+[09.07.18 13:12:56] WARN:Master access level set for character Admin
+[09.07.18 13:21:02] WARN:GM: Admin(268481206) issued shutdown command. shutting down in 1 seconds!
+[09.07.18 13:21:03] WARN:GM shutdown countdown is over. shutting down NOW!
+[09.07.18 14:37:44] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[09.07.18 14:38:01] WARN:TransformData: Could not parse file 30000.xml at line 3, column 78: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[09.07.18 14:38:01] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[09.07.18 14:38:31] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[09.07.18 14:38:31] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[09.07.18 14:38:32] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[09.07.18 15:10:04] WARN:Master access level set for character Admin
+[09.07.18 15:23:47] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[09.07.18 15:24:03] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[09.07.18 15:24:16] WARN:TransformData: Could not parse file 30000.xml at line 3, column 78: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[09.07.18 15:24:16] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[09.07.18 15:24:43] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[09.07.18 15:24:43] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[09.07.18 15:24:46] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[09.07.18 16:54:14] WARN:Master access level set for character Admin
+[09.07.18 17:28:51] WARN:Master access level set for character Admin
+[09.07.18 17:42:19] WARN:GM: Admin(268481206) issued shutdown command. shutting down in 1 seconds!
+[09.07.18 17:42:20] WARN:GM shutdown countdown is over. shutting down NOW!
+[09.07.18 17:50:03] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[09.07.18 17:50:18] WARN:TransformData: Could not parse file 30000.xml at line 3, column 78: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[09.07.18 17:50:18] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[09.07.18 17:50:51] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[09.07.18 17:50:52] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[09.07.18 17:50:53] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[09.07.18 17:56:26] WARN:Master access level set for character Admin
+[09.07.18 17:57:36] WARN:Failed to parse item_skill(36000) for item Scarecrow Jack Transformation Stick {Buff} - 7-day limited period(26013)! Format: SkillId0-SkillLevel0[;SkillIdN-SkillLevelN]
+[09.07.18 17:57:44] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[09.07.18 17:57:59] WARN:TransformData: Could not parse file 30000.xml at line 3, column 78: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[09.07.18 17:57:59] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[09.07.18 17:58:32] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[09.07.18 17:58:32] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[09.07.18 17:58:33] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[09.07.18 17:58:53] WARN:Master access level set for character Admin
+[10.07.18 07:18:37] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[10.07.18 07:18:52] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[10.07.18 07:19:06] WARN:TransformData: Could not parse file 30000.xml at line 3, column 78: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[10.07.18 07:19:06] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[10.07.18 07:19:39] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[10.07.18 07:19:39] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[10.07.18 07:19:40] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[10.07.18 07:20:22] WARN:Master access level set for character Admin
+[10.07.18 07:29:22] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[10.07.18 07:29:34] WARN:TransformData: Could not parse file 30000.xml at line 3, column 77: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[10.07.18 07:29:34] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[10.07.18 07:29:58] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[10.07.18 07:29:58] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[10.07.18 07:29:59] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[10.07.18 07:30:19] WARN:Master access level set for character Admin
+[10.07.18 07:35:53] WARN:Master access level set for character Admin
+[10.07.18 07:42:19] WARN:Master access level set for character Admin
+[10.07.18 07:52:37] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[10.07.18 07:52:51] WARN:TransformData: Could not parse file 30000.xml at line 3, column 77: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[10.07.18 07:52:51] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[10.07.18 07:53:26] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[10.07.18 07:53:27] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[10.07.18 07:53:28] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[10.07.18 07:53:49] WARN:Master access level set for character Admin
+[10.07.18 08:02:09] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[10.07.18 08:02:23] WARN:TransformData: Could not parse file 30000.xml at line 3, column 80: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[10.07.18 08:02:23] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[10.07.18 08:02:53] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[10.07.18 08:02:53] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[10.07.18 08:02:54] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[10.07.18 08:03:03] WARN:Master access level set for character Admin
+[10.07.18 08:15:01] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[10.07.18 08:15:15] WARN:TransformData: Could not parse file 30000.xml at line 3, column 80: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[10.07.18 08:15:15] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[10.07.18 08:15:42] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[10.07.18 08:15:42] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[10.07.18 08:15:43] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[10.07.18 08:15:54] WARN:Master access level set for character Admin
+[11.07.18 06:57:24] WARN:GM shutdown countdown is over. restarting NOW!
+[11.07.18 07:10:42] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 07:11:00] WARN:TransformData: Could not parse file 30000.xml at line 3, column 80: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[11.07.18 07:11:00] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 07:11:49] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 07:11:49] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 07:11:52] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 07:12:00] WARN:Master access level set for character Admin
+[11.07.18 07:42:19] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 07:42:35] WARN:TransformData: Could not parse file 30000.xml at line 3, column 80: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[11.07.18 07:42:35] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 07:43:19] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 07:43:19] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 07:43:21] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 07:43:28] WARN:Master access level set for character Admin
+[11.07.18 08:00:17] WARN:Master access level set for character Admin
+[11.07.18 08:07:16] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 08:07:32] WARN:TransformData: Could not parse file 30000.xml at line 3, column 80: cvc-maxInclusive-valid: O valor '30000' não tem um aspecto válido em relação ao maxInclusive '20007' do tipo '#AnonType_idtransformlist'.
+[11.07.18 08:08:23] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 08:19:53] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 08:20:36] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 08:21:07] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 08:21:07] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 08:21:09] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 08:21:17] WARN:Master access level set for character Admin
+[11.07.18 08:27:49] WARN:LoginServer not available, trying to reconnect...
+[11.07.18 13:10:49] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 13:11:06] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:11:36] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 13:11:36] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 13:11:37] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 13:11:59] WARN:Master access level set for character Admin
+[11.07.18 13:15:03] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:17:14] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 13:17:36] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:18:23] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 13:18:23] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 13:18:25] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 13:19:07] WARN:Master access level set for character Admin
+[11.07.18 13:30:54] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 13:31:09] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:31:40] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 13:31:40] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 13:31:41] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 13:31:48] WARN:Master access level set for character Admin
+[11.07.18 13:44:45] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 13:45:01] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:45:31] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 13:45:32] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 13:45:33] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 13:48:12] WARN:Master access level set for character Admin
+[11.07.18 13:52:38] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:57:08] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:58:34] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 13:58:49] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 13:59:19] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 13:59:19] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 13:59:21] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 13:59:35] WARN:Master access level set for character Admin
+[11.07.18 14:07:53] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 14:08:02] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 14:08:12] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 14:08:12] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 14:08:13] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 14:09:59] WARN:Master access level set for character Admin
+[11.07.18 17:39:05] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 17:40:02] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[11.07.18 17:40:18] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[11.07.18 17:40:53] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[11.07.18 17:40:53] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[11.07.18 17:40:55] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[11.07.18 17:41:11] WARN:Master access level set for character Admin
+[13.07.18 07:40:48] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[13.07.18 07:41:02] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[13.07.18 07:41:16] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[13.07.18 07:41:37] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[13.07.18 07:41:37] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[13.07.18 07:41:38] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[13.07.18 07:42:10] WARN:Master access level set for character Admin
+[13.07.18 07:48:47] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[13.07.18 07:49:01] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[13.07.18 07:49:37] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[13.07.18 07:49:37] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[13.07.18 07:49:38] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[13.07.18 08:06:32] WARN:Master access level set for character Admin
+[13.07.18 13:30:18] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[13.07.18 13:55:28] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[13.07.18 13:56:19] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[13.07.18 13:57:08] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[13.07.18 14:03:26] WARN:No handler registered for admin command 'admin_rload'
+[13.07.18 14:03:34] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[16.07.18 13:20:03] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[16.07.18 13:20:29] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[16.07.18 13:20:49] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[16.07.18 13:21:33] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[16.07.18 13:21:33] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[16.07.18 13:21:35] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[17.07.18 08:48:19] WARN:GM shutdown countdown is over. restarting NOW!
+[17.07.18 17:42:41] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[17.07.18 17:42:58] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[20.07.18 09:32:26] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[20.07.18 09:32:49] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[20.07.18 09:32:59] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[20.07.18 09:33:22] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[20.07.18 09:33:22] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[20.07.18 09:33:23] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[20.07.18 10:38:54] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[20.07.18 10:39:04] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[20.07.18 10:39:22] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[20.07.18 10:39:22] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[20.07.18 10:39:23] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[23.07.18 09:33:47] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[23.07.18 09:33:50] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
+[23.07.18 09:33:50] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\mapregion doesn't exist!
+[23.07.18 09:33:50] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[23.07.18 10:39:48] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[23.07.18 10:40:10] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[23.07.18 10:40:26] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[23.07.18 10:40:56] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[23.07.18 10:40:56] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[23.07.18 10:40:57] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[23.07.18 11:51:12] WARN:Could not load HexID file (./config/hexid/hexid.txt). Hopefully login will give us one.
+[23.07.18 11:51:32] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\buylists\custom doesn't exist!
+[23.07.18 11:51:47] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\build\dist\game\data\xml\stats\transformations\custom doesn't exist!
+[23.07.18 11:52:18] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[23.07.18 11:52:18] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[23.07.18 11:52:20] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
