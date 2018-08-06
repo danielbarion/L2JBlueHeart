@@ -411,3 +411,13 @@
 [23.07.18 11:52:18] WARN:SpawnTable: Data missing in NPC table for ID: 557.
 [23.07.18 11:52:18] WARN:SpawnTable: Data missing in NPC table for ID: 540.
 [23.07.18 11:52:20] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[06.08.18 09:05:24] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\L2JBlueHeartRelease\game\data\xml\buylists\custom doesn't exist!
+[06.08.18 09:05:37] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\L2JBlueHeartRelease\game\data\xml\stats\transformations\custom doesn't exist!
+[06.08.18 09:06:00] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[06.08.18 09:06:00] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[06.08.18 09:06:02] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[06.08.18 09:13:18] WARN:BuyListData: Folder C:\Users\daniel.barion\Documents\DanielSan\L2JBlueHeartRelease\game\data\xml\buylists\custom doesn't exist!
+[06.08.18 09:13:26] WARN:TransformData: Folder C:\Users\daniel.barion\Documents\DanielSan\L2JBlueHeartRelease\game\data\xml\stats\transformations\custom doesn't exist!
+[06.08.18 09:13:38] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[06.08.18 09:13:38] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[06.08.18 09:13:42] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!

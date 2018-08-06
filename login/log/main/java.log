@@ -1,17 +1,19 @@
-[23.07.18 11:46:56] INFO: Loading LoginController...
-[23.07.18 11:47:00] INFO: Cached 10 KeyPairs for RSA communication
-[23.07.18 11:47:01] INFO: Stored 20 keys for Blowfish communication
-[23.07.18 11:47:01] INFO: GameServerTable: Loaded 127 server names
-[23.07.18 11:47:01] INFO: GameServerTable: Loaded 0 registered Game Servers
-[23.07.18 11:47:01] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
-[23.07.18 11:47:01] INFO: Loaded 2 IP Bans.
-[23.07.18 11:47:01] INFO: Scheduled LS restart after 48 hours
-[23.07.18 11:47:02] INFO: Listening for GameServers on 127.0.0.1:9014
-[23.07.18 11:47:02] INFO: Telnet server is currently disabled.
-[23.07.18 11:47:02] INFO: L2LoginServer: is now listening on: *:2106
-[23.07.18 11:47:02] INFO: Looking for UPnP Gateway Devices...
-[23.07.18 11:47:11] INFO: No UPnP gateways found
-[23.07.18 11:52:22] INFO: Updated Gameserver [1] Bartz IP's:
-[23.07.18 11:52:22] INFO: 127.0.0.1/127.0.0.0/8
-[23.07.18 11:52:22] INFO: 192.168.10.46/192.168.8.0/22
-[23.07.18 11:52:22] INFO: 187.62.8.92/0.0.0.0/0
+[06.08.18 09:12:52] INFO: Loading LoginController...
+[06.08.18 09:12:53] INFO: Cached 10 KeyPairs for RSA communication
+[06.08.18 09:12:53] INFO: Stored 20 keys for Blowfish communication
+[06.08.18 09:12:53] INFO: GameServerTable: Loaded 127 server names
+[06.08.18 09:12:53] INFO: GameServerTable: Loaded 1 registered Game Servers
+[06.08.18 09:12:53] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[06.08.18 09:12:53] INFO: Loaded 2 IP Bans.
+[06.08.18 09:12:53] INFO: Scheduled LS restart after 48 hours
+[06.08.18 09:12:53] INFO: Listening for GameServers on 127.0.0.1:9014
+[06.08.18 09:12:53] INFO: Telnet server is currently disabled.
+[06.08.18 09:12:53] INFO: L2LoginServer: is now listening on: *:2106
+[06.08.18 09:12:53] INFO: Looking for UPnP Gateway Devices...
+[06.08.18 09:13:03] INFO: No UPnP gateways found
+[06.08.18 09:13:46] INFO: Updated Gameserver [1] Bartz IP's:
+[06.08.18 09:13:46] INFO: 127.0.0.1/127.0.0.0/8
+[06.08.18 09:13:46] INFO: 192.168.10.46/192.168.8.0/22
+[06.08.18 09:13:46] INFO: 187.62.8.92/0.0.0.0/0
+[06.08.18 09:15:08] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[06.08.18 09:15:08] INFO: Server [1] Bartz is now set as disconnected
