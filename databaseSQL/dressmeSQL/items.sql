@@ -1,0 +1,1 @@
+ALTER TABLE items ADD COLUMN `visual_item_id` int(7) NOT NULL DEFAULT '0' AFTER `time`;
