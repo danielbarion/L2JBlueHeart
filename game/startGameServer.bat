@@ -5,7 +5,7 @@ color 0B
 echo Starting L2J Game Server.
 echo.
 
-java -server -Dfile.encoding=UTF-8 -Xmx1512M -cp config/xml;./../libs/*;core.jar l2r.gameserver.GameServer
+java -server -Dfile.encoding=UTF-8 -Xmx3G -cp config/xml;./../libs/*;core.jar l2r.gameserver.GameServer
 
 REM NOTE: If you have a powerful machine, you could modify/add some extra parameters for performance, like:
 REM -Xms1536m

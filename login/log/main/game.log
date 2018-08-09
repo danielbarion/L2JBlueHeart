@@ -836,3 +836,45 @@
 [06.08.18 09:13:46] INFO: 187.62.8.92/0.0.0.0/0
 [06.08.18 09:15:08] INFO: GameServer [1] Bartz: Connection lost: Connection reset
 [06.08.18 09:15:08] INFO: Server [1] Bartz is now set as disconnected
+[08.08.18 21:50:08] INFO: Loading LoginController...
+[08.08.18 21:50:09] INFO: Cached 10 KeyPairs for RSA communication
+[08.08.18 21:50:09] INFO: Stored 20 keys for Blowfish communication
+[08.08.18 21:50:09] INFO: GameServerTable: Loaded 127 server names
+[08.08.18 21:50:10] INFO: GameServerTable: Loaded 1 registered Game Servers
+[08.08.18 21:50:10] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[08.08.18 21:50:10] INFO: Loaded 2 IP Bans.
+[08.08.18 21:50:10] INFO: Scheduled LS restart after 48 hours
+[08.08.18 21:50:10] INFO: Listening for GameServers on 127.0.0.1:9014
+[08.08.18 21:50:10] INFO: Telnet server is currently disabled.
+[08.08.18 21:50:10] INFO: L2LoginServer: is now listening on: *:2106
+[08.08.18 21:50:10] INFO: Looking for UPnP Gateway Devices...
+[08.08.18 21:50:10] INFO: Using UPnP gateway: Wireless Router TL-WR941ND
+[08.08.18 21:50:10] INFO: Using local address: 192.168.0.109 External address: 192.168.15.4
+[08.08.18 21:50:10] INFO: Mapping successfull on [192.168.0.109:2106]
+[08.08.18 21:51:02] INFO: Updated Gameserver [2] Sieghardt IP's:
+[08.08.18 21:51:02] INFO: 127.0.0.1/127.0.0.0/8
+[08.08.18 21:51:02] INFO: 192.168.0.109/192.168.0.0/24
+[08.08.18 21:51:02] INFO: 177.96.73.202/0.0.0.0/0
+[08.08.18 21:51:31] INFO: GameServer [2] Sieghardt: Connection lost: Connection reset
+[08.08.18 21:51:31] INFO: Server [2] Sieghardt is now set as disconnected
+[08.08.18 23:03:27] INFO: Loading LoginController...
+[08.08.18 23:03:28] INFO: Cached 10 KeyPairs for RSA communication
+[08.08.18 23:03:29] INFO: Stored 20 keys for Blowfish communication
+[08.08.18 23:03:29] INFO: GameServerTable: Loaded 127 server names
+[08.08.18 23:03:29] INFO: GameServerTable: Loaded 3 registered Game Servers
+[08.08.18 23:03:29] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[08.08.18 23:03:29] INFO: Loaded 2 IP Bans.
+[08.08.18 23:03:29] INFO: Scheduled LS restart after 48 hours
+[08.08.18 23:03:29] INFO: Listening for GameServers on 127.0.0.1:9014
+[08.08.18 23:03:29] INFO: Telnet server is currently disabled.
+[08.08.18 23:03:29] INFO: L2LoginServer: is now listening on: *:2106
+[08.08.18 23:03:29] INFO: Looking for UPnP Gateway Devices...
+[08.08.18 23:03:30] INFO: Using UPnP gateway: Wireless Router TL-WR941ND
+[08.08.18 23:03:30] INFO: Using local address: 192.168.0.109 External address: 192.168.15.4
+[08.08.18 23:03:30] INFO: Mapping successfull on [192.168.0.109:2106]
+[08.08.18 23:04:29] INFO: Updated Gameserver [3] Kain IP's:
+[08.08.18 23:04:29] INFO: 127.0.0.1/127.0.0.0/8
+[08.08.18 23:04:29] INFO: 192.168.0.109/192.168.0.0/24
+[08.08.18 23:04:29] INFO: 177.96.73.202/0.0.0.0/0
+[08.08.18 23:04:34] INFO: GameServer [3] Kain: Connection lost: Connection reset
+[08.08.18 23:04:34] INFO: Server [3] Kain is now set as disconnected
