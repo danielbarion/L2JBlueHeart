@@ -103,3 +103,11 @@ java.lang.NullPointerException
 [08.08.18 22:22:47] WARN:SpawnTable: Data missing in NPC table for ID: 540.
 [08.08.18 23:04:26] WARN:SpawnTable: Data missing in NPC table for ID: 557.
 [08.08.18 23:04:26] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[10.08.18 13:54:41] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[10.08.18 13:54:41] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[10.08.18 13:54:43] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
+[10.08.18 13:54:55] WARN:Master access level set for character Admin
+[10.08.18 13:55:28] WARN:Master access level set for character Admin
+[10.08.18 13:55:40] WARN:Master access level set for character Admin
+[10.08.18 13:57:22] WARN:Master access level set for character Admin
+[10.08.18 14:02:31] WARN:LoginServer not available, trying to reconnect...

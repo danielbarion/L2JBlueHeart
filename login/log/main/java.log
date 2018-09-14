@@ -1,21 +1,17 @@
-[08.08.18 23:03:27] INFO: Loading LoginController...
-[08.08.18 23:03:28] INFO: Cached 10 KeyPairs for RSA communication
-[08.08.18 23:03:29] INFO: Stored 20 keys for Blowfish communication
-[08.08.18 23:03:29] INFO: GameServerTable: Loaded 127 server names
-[08.08.18 23:03:29] INFO: GameServerTable: Loaded 3 registered Game Servers
-[08.08.18 23:03:29] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
-[08.08.18 23:03:29] INFO: Loaded 2 IP Bans.
-[08.08.18 23:03:29] INFO: Scheduled LS restart after 48 hours
-[08.08.18 23:03:29] INFO: Listening for GameServers on 127.0.0.1:9014
-[08.08.18 23:03:29] INFO: Telnet server is currently disabled.
-[08.08.18 23:03:29] INFO: L2LoginServer: is now listening on: *:2106
-[08.08.18 23:03:29] INFO: Looking for UPnP Gateway Devices...
-[08.08.18 23:03:30] INFO: Using UPnP gateway: Wireless Router TL-WR941ND
-[08.08.18 23:03:30] INFO: Using local address: 192.168.0.109 External address: 192.168.15.4
-[08.08.18 23:03:30] INFO: Mapping successfull on [192.168.0.109:2106]
-[08.08.18 23:04:29] INFO: Updated Gameserver [3] Kain IP's:
-[08.08.18 23:04:29] INFO: 127.0.0.1/127.0.0.0/8
-[08.08.18 23:04:29] INFO: 192.168.0.109/192.168.0.0/24
-[08.08.18 23:04:29] INFO: 177.96.73.202/0.0.0.0/0
-[08.08.18 23:04:34] INFO: GameServer [3] Kain: Connection lost: Connection reset
-[08.08.18 23:04:34] INFO: Server [3] Kain is now set as disconnected
+[10.08.18 13:52:02] INFO: Loading LoginController...
+[10.08.18 13:52:03] INFO: Cached 10 KeyPairs for RSA communication
+[10.08.18 13:52:04] INFO: Stored 20 keys for Blowfish communication
+[10.08.18 13:52:04] INFO: GameServerTable: Loaded 127 server names
+[10.08.18 13:52:04] INFO: GameServerTable: Loaded 1 registered Game Servers
+[10.08.18 13:52:04] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[10.08.18 13:52:04] INFO: Loaded 2 IP Bans.
+[10.08.18 13:52:04] INFO: Scheduled LS restart after 48 hours
+[10.08.18 13:52:04] INFO: Listening for GameServers on 127.0.0.1:9014
+[10.08.18 13:52:04] INFO: Telnet server is currently disabled.
+[10.08.18 13:52:04] INFO: L2LoginServer: is now listening on: *:2106
+[10.08.18 13:52:04] INFO: Looking for UPnP Gateway Devices...
+[10.08.18 13:52:14] INFO: No UPnP gateways found
+[10.08.18 13:54:45] INFO: Updated Gameserver [3] Kain IP's:
+[10.08.18 13:54:45] INFO: 127.0.0.1/127.0.0.0/8
+[10.08.18 13:54:45] INFO: 192.168.10.46/192.168.8.0/22
+[10.08.18 13:54:45] INFO: 187.62.8.92/0.0.0.0/0

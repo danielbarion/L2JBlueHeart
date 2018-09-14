@@ -1,0 +1,9 @@
+10/08/2018 13:55:18>Admin [268481206]>VisualChange(id: 57 objId: 268481237 name: Adena count: -2000000000)>no-target>L2Object referencing this action is: Admin
+10/08/2018 13:55:34>Admin [268481206]>Drop(id: 2382 name: Tallum Plate Armor)>no-target>L2Object referencing this action is: no-reference
+10/08/2018 13:55:34>Admin [268481206]>Drop>no-target>(id: 2382 name: Tallum Plate Armor objId: 268481095 x: 82652 y: 148480 z: -3468)
+10/08/2018 13:55:34>Admin [268481206]>Pickup(id: 2382 name: Tallum Plate Armor)>no-target>L2Object referencing this action is: no-reference
+10/08/2018 13:56:38>Admin [268481206]>gmshop>no-target>
+10/08/2018 13:56:57>Admin [268481206]>VisualChange(id: 57 objId: 268481237 name: Adena count: -2000000000)>no-target>L2Object referencing this action is: Admin
+10/08/2018 13:57:09>Admin [268481206]>Drop(id: 2382 name: Tallum Plate Armor)>no-target>L2Object referencing this action is: no-reference
+10/08/2018 13:57:10>Admin [268481206]>Drop>no-target>(id: 2382 name: Tallum Plate Armor objId: 268481095 x: 82652 y: 148480 z: -3468)
+10/08/2018 13:57:14>Admin [268481206]>Pickup(id: 2382 name: Tallum Plate Armor)>no-target>L2Object referencing this action is: no-reference
