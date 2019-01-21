@@ -33,7 +33,6 @@ import l2r.gameserver.util.Util;
 /**
  * Warehouse Keeper's Pastime (384)
  * @author Zealar
- * Fixed for JBlueHeart (Team)
  */
 public final class Q00384_WarehouseKeepersPastime extends Quest
 {
