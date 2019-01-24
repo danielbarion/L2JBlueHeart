@@ -10,3 +10,9 @@
 [25.06.18 14:38:02] WARN:InstanceManager: Could not parse instancenames.xml is not a file or it doesn't exist!
 [25.06.18 14:38:02] WARN:MapRegionManager: Folder C:\Users\daniel.barion\Documents\DanielSan\JSunrise-Source\L2J_SunriseProject_Core\dist\game\data\xml\mapregion doesn't exist!
 [25.06.18 14:38:02] WARN:CategoryData: Could not parse categoryData.xml is not a file or it doesn't exist!
+[24.01.19 19:14:05] WARN:BuyListData: Folder D:\dev\projetos\lineage 2\testes-rev\L2SR_Server\game\data\xml\buylists\custom doesn't exist!
+[24.01.19 19:14:20] WARN:TransformData: Folder D:\dev\projetos\lineage 2\testes-rev\L2SR_Server\game\data\xml\stats\transformations\custom doesn't exist!
+[24.01.19 19:14:51] WARN:Failed loading: (D:\dev\projetos\lineage 2\testes-rev\L2SR_Server\game\data\scripts\custom\AutoReward\AutoDelivery.java) @ scripts.ini:28 - Reason: doesnt exists or is not a file.
+[24.01.19 19:14:51] WARN:SpawnTable: Data missing in NPC table for ID: 557.
+[24.01.19 19:14:51] WARN:SpawnTable: Data missing in NPC table for ID: 540.
+[24.01.19 19:14:53] ERROR:ImagesCache: Path data/sunrise/images/id_by_name doesn't exist!
