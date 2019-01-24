@@ -37,3 +37,39 @@
 [25.06.18 17:28:19] INFO: L2LoginServer: is now listening on: *:2106
 [25.06.18 17:28:19] INFO: Looking for UPnP Gateway Devices...
 [25.06.18 17:28:29] INFO: No UPnP gateways found
+[24.01.19 19:11:47] INFO: Loading LoginController...
+[24.01.19 19:11:47] INFO: Cached 10 KeyPairs for RSA communication
+[24.01.19 19:11:48] INFO: Stored 20 keys for Blowfish communication
+[24.01.19 19:11:48] INFO: GameServerTable: Loaded 127 server names
+[24.01.19 19:11:48] ERROR: GameServerTable: Error loading registered game servers!
+[24.01.19 19:11:48] INFO: GameServerTable: Loaded 0 registered Game Servers
+[24.01.19 19:11:48] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[24.01.19 19:11:48] INFO: Loaded 2 IP Bans.
+[24.01.19 19:11:48] INFO: Scheduled LS restart after 48 hours
+[24.01.19 19:11:48] INFO: Listening for GameServers on 127.0.0.1:9014
+[24.01.19 19:11:48] INFO: Telnet server is currently disabled.
+[24.01.19 19:11:48] INFO: L2LoginServer: is now listening on: *:2106
+[24.01.19 19:11:48] INFO: Looking for UPnP Gateway Devices...
+[24.01.19 19:11:48] INFO: Using UPnP gateway: Archer_C20
+[24.01.19 19:11:48] INFO: Using local address: 192.168.1.115 External address: 192.168.0.2
+[24.01.19 19:11:48] INFO: Mapping successfull on [192.168.1.115:2106]
+[24.01.19 19:13:30] INFO: Loading LoginController...
+[24.01.19 19:13:30] INFO: Cached 10 KeyPairs for RSA communication
+[24.01.19 19:13:30] INFO: Stored 20 keys for Blowfish communication
+[24.01.19 19:13:31] INFO: GameServerTable: Loaded 127 server names
+[24.01.19 19:13:31] INFO: GameServerTable: Loaded 1 registered Game Servers
+[24.01.19 19:13:31] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[24.01.19 19:13:31] INFO: Loaded 2 IP Bans.
+[24.01.19 19:13:31] INFO: Scheduled LS restart after 48 hours
+[24.01.19 19:13:31] INFO: Listening for GameServers on 127.0.0.1:9014
+[24.01.19 19:13:31] INFO: Telnet server is currently disabled.
+[24.01.19 19:13:31] INFO: L2LoginServer: is now listening on: *:2106
+[24.01.19 19:13:31] INFO: Looking for UPnP Gateway Devices...
+[24.01.19 19:13:31] INFO: Using UPnP gateway: Archer_C20
+[24.01.19 19:13:31] INFO: Using local address: 192.168.1.115 External address: 192.168.0.2
+[24.01.19 19:13:31] INFO: Mapping successfull on [192.168.1.115:2106]
+[24.01.19 19:14:30] INFO: Auto created account 'admin'.
+[24.01.19 19:14:58] INFO: Updated Gameserver [1] Bartz IP's:
+[24.01.19 19:14:58] INFO: 127.0.0.1/127.0.0.0/8
+[24.01.19 19:14:58] INFO: 192.168.1.115/192.168.1.0/24
+[24.01.19 19:14:58] INFO: 191.37.24.1/0.0.0.0/0
